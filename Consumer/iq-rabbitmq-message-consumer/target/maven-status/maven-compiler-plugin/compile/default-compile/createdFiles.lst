@@ -1,0 +1,3 @@
+com\iq\rabbitmq\constants\IQConstants.class
+com\iq\rabbitmq\IqMessageConsumerApplication.class
+com\iq\rabbitmq\listener\IQMessageListener.class

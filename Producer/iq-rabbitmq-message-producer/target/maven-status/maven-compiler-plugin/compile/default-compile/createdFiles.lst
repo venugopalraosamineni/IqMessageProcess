@@ -1,0 +1,6 @@
+com\iq\rabbitmq\service\IQMessageSenderService.class
+com\iq\rabbitmq\commandline\IQCommandLineComponent.class
+com\iq\rabbitmq\controllers\IQMessageController.class
+com\iq\rabbitmq\constants\IQConstants.class
+com\iq\rabbitmq\IqMessageProducerApplication.class
+com\iq\rabbitmq\service\impl\IQMessageSenderServiceImpl.class

@@ -1,0 +1,1 @@
+package com.iq.rabbitmq.service;

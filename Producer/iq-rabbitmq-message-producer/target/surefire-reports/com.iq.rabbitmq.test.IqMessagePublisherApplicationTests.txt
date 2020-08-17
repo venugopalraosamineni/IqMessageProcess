@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iq.rabbitmq.test.IqMessagePublisherApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.804 s - in com.iq.rabbitmq.test.IqMessagePublisherApplicationTests

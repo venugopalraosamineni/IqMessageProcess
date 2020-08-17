@@ -1,0 +1,2 @@
+com\iq\rabbitmq\test\IQMessageListenerTest.class
+com\iq\rabbitmq\test\SpringRabbitMqSubcriberApplicationTests.class
